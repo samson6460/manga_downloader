@@ -1,4 +1,5 @@
 # manga_downloader
+comics high-speed download
 # 漫畫下載器
 使用python程式，能以多執行緒高速下載大量漫畫
 # 使用方法
