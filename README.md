@@ -6,6 +6,6 @@
 1.  確認系統中有安裝python3.X
 2.  在 terminal 中執行以下指令:
 
-```main.py```
+```python main.py```
 
 3.  依指示完成下載
